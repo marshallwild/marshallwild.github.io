@@ -1,0 +1,30 @@
+#body 
+{
+	font-size: 50px;
+ 	text-align: center;
+
+}
+body {
+	background-color: red;
+}
+.General{
+	font-size: 12px;
+	color: white;
+}
+#survey{
+	font-size: 30px;
+	position: absolute;
+	top: 80px;
+	right: 50px;
+	color: black;
+}
+#dog{
+	width: 150px;
+	height: 150px;
+	opacity: 0.5;
+}
+.change{
+	width: 300%;
+	height: 300%;
+
+}
